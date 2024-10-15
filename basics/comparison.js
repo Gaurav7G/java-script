@@ -12,7 +12,7 @@ console.log(undefined>0); //false
 console.log(undefined>=0);//false
 
 console.log("2"===2); //false
-// === :(strict euality check also checks datatypes.)
+// === :(strict euality check also checks datatypes.therefore for this equality both datatypes must be same.)
 
 
 
